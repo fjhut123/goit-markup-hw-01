@@ -1,3 +1,4 @@
+
 <html lang="uk">
 <head>
     <meta charset="UTF-8">
@@ -7,18 +8,20 @@
 </head>
 
 <body>
-    
+    <main>
+<section>
         <ul>
             <li>Студія</li>
             <li>Портфоліо</li>
             <li>Контакти</li>
             <li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li>
-            <li><a href="tell:+38 0961111111">+380961111111</a></li>
+            <li><a href="tell:+380961111111">+380961111111</a></li>
         </ul>
-        <main>
+        </section>
+
             <h1>Ефективні рішення для вашого бізнесу</h1>
             <button type="button">Замовити послугу</button>
-        </main>
+
         <section>
             <ul>
                 <li>
@@ -64,7 +67,7 @@
                 <p>UI Designer</p>
             </img>
         </section>
-    
+    </main>
     <footer>
         <address>
             <a href="https://goo.gl/maps/YXSuuq84A5c1wLiu9" target="_blank" rel="noopener noreferrer">м. Київ, пр-т Лесі Українки, 26</a>
